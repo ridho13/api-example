@@ -1,0 +1,15 @@
+{
+  "name": "00",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loopback": "^3.26.0",
+    "restify": "^8.5.1"
+  }
+}
